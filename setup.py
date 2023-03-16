@@ -8,8 +8,8 @@ setup(
   readme = "README.md",
   author = 'Zyla Labs',
   author_email = 'hello@zylalabs.com',
-  url = 'https://github.com/secrojas/Real-Time-Flights-API',
-  download_url = 'https://github.com/secrojas/Real-Time-Flights-API/archive/refs/tags/v.1.tar.gz',
+  url = 'https://github.com/secrojas/Zyla-Real-Time-Flights-API',
+  download_url = 'https://github.com/secrojas/Zyla-Real-Time-Flights-API/archive/refs/tags/v.1.tar.gz',
   keywords = ['flights','real time flights','scraping', 'easy', 'scraper', 'website', 'download', 'links', 'images', 'videos'],
   install_requires=[
           'requests',
