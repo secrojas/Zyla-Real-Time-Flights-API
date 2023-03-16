@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'real_time_flights_api',
   packages = ['real_time_flights_api'],
-  version = '1',
+  version = '1.0',
   license='MIT',
   description = 'A Python package to get real time flights information from the website https://www.goflightlabs.com/',
   readme = "README.md",
